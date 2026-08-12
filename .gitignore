@@ -1,0 +1,6 @@
+# build artifacts
+conv
+*.o
+*.out
+temp.rgb
+temp.rgba
